@@ -1,0 +1,14 @@
+.contact-info {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+  }
+  
+  .contact-info p {
+    margin: 8px 0;
+  }
+  
+  .contact-info strong {
+    color: #333;
+  }
